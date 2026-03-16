@@ -1,0 +1,12 @@
+# Bundler cache
+.bundle
+vendor
+
+# Jekyll generated
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+# macOS
+.DS_Store

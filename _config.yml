@@ -1,0 +1,18 @@
+title: "Rosetta 2 Support for libkrun"
+description: >-
+  Technical Feasibility and Legal Analysis of adding Rosetta 2 support
+  to libkrun, a lightweight VMM library used by Podman on macOS.
+url: "https://tnk4on.github.io"
+baseurl: "/libkrun-rosetta"
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: "2..3"
+  syntax_highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
